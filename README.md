@@ -8,10 +8,10 @@
 ### Technical Skills
 
 
-### Industry Experience
+### :factory: :man_scientist:  Industry Experience
 | | | | | |
 |-|-|-|-|-|
-| :phone: | Student Software Engineer | Nokia Networks | (Bristol, United Kingdom) | :uk: |
+| :satellite: | Student Software Engineer | Nokia Networks | (Bristol, United Kingdom) | :uk: |
 
 ### :mortar_board: Education 
 | |                                                   |                            |               |   |
@@ -24,5 +24,5 @@
 | |                                                   |                            |               |   |
 |-|---------------------------------------------------|----------------------------|---------------|---|
 | :robot: | :eu: Erasmus+ Traineeship  | Techinical University of Munich | (Munich, Germany) | :de:  |
-| :brain: | :eu: Erasmus+ Study | University of Barcelona & Polytechnic University of Catalonia        | (Barcelona, Spain) | :es:  |
-| :computer: | :eu: Erasmus+ Study                         | University of Bristol        | (Bristol, United Kingdom) | :uk:  |
+| :brain: | :eu: Erasmus+ Study | University of Barcelona & Polytechnic University of Catalonia  | (Barcelona, Spain) | :es:  |
+| :computer: | :eu: Erasmus+ Study      | University of Bristol        | (Bristol, United Kingdom) | :uk:  |
