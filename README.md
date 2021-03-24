@@ -5,8 +5,13 @@
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
 
-### Technical Skills
-
+### :hammer_and_pick: :wrench: Technical Skills
+- C | C++ | Python | Java | Matlab | SQL | Bash scripting | OCaml
+- OpenMP | MPI | OpenCL | POSIX pthread | Boost 
+- Keras | PyTorch | Scikit-learn | NLTK | Caffe | Tensor-flow | OpenCV
+- Pandas | Numpy | Matplotlib
+- ROS | Gazebo
+- Unit Testing | Version Control | Agile Software Development
 
 ### :factory: :man_scientist:  Industry Experience
 | | | | | |
