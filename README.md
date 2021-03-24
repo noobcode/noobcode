@@ -1,16 +1,30 @@
-### Hi there 👋
+<p align="center">
+  <b>Carlo Alessi</b><br>
+  <a href="https://www.linkedin.com/in/carlo-alessi/">LinkedIn</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
 
-<!--
-**noobcode/noobcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Industry Experience
+| | | | | |
+|-|-|-|-|-|
+| :phone: | Student Software Engineer | Nokia Networks | (Bristol, United Kingdom) | :uk: |
+
+## :mortar_board: Education 
+| |                                                   |                            |               |   |
+|-|---------------------------------------------------|----------------------------|---------------|---|
+| :robot: | PhD Student in BioRobotics                        | Scuola Superiore Sant'Anna | (Pisa, Italy) | :it:  |
+| :brain: | MSc in Computer Science (Artificial Intelligence) | University of Pisa         | (Pisa, Italy) | :it:  |
+| :computer: | BSc in Computer Science                           | University of Pisa         | (Pisa, Italy) | :it:  |
+
+#### Visiting
+| |                                                   |                            |               |   |
+|-|---------------------------------------------------|----------------------------|---------------|---|
+| :robot: | :eu: Erasmus+ Traineeship  | Techinical University of Munich | (Munich, Germany) | :de:  |
+| :brain: | :eu: Erasmus+ Study | University of Barcelona & Polytechnic University of Catalonia        | (Barcelona, Spain) | :es:  |
+| :computer: | :eu: Erasmus+ Study                         | University of Bristol        | (Bristol, United Kingdom) | :uk:  |
