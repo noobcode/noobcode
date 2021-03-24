@@ -1,8 +1,4 @@
 <p align="center">
-  <b>Carlo Alessi</b><br>
-  <a href="https://www.linkedin.com/in/carlo-alessi/">LinkedIn</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
   <img src="twitter_header_photo_1.png">
 </p>
 
