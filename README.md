@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://www.linkedin.com/in/carlo-alessi/">
   <img src="twitter_header_photo_1.png">
+  </a>
 </p>
 
 Let's connect professionally via <a href="https://www.linkedin.com/in/carlo-alessi/">LinkedIn</a>!
