@@ -33,3 +33,6 @@
 | :robot: | :eu: Erasmus+ Traineeship  | Techinical University of Munich | (Munich, Germany) | :de:  |
 | :brain: | :eu: Erasmus+ Study | University of Barcelona & Polytechnic University of Catalonia  | (Barcelona, Spain) | :es:  |
 | :computer: | :eu: Erasmus+ Study      | University of Bristol        | (Bristol, United Kingdom) | :uk:  |
+
+
+:infinity: Recently I began restructuring my old repositories...
