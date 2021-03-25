@@ -4,8 +4,6 @@
   </a>
 </p>
 
-Let's connect professionally via <a href="https://www.linkedin.com/in/carlo-alessi/">LinkedIn</a>!
-
 ### :hammer_and_pick: :wrench: Technical Skills
 - C | C++ | Python | Java | Matlab | SQL | Bash scripting | OCaml
 - OpenMP | MPI | OpenCL | POSIX pthread | Boost 
