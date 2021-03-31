@@ -12,9 +12,9 @@
 - `Keras` | `PyTorch` | `Scikit-learn` | `NLTK` | `Caffe` | `Tensor-flow` | `OpenCV`
 - `Pandas` | `Numpy` | `Matplotlib`
 - `ROS` | `Gazebo`
-- `Unit Testing` | `Version Control` |`Agile Software Development`|
+- `Unit Testing` | `Version Control` |`Agile Software Development`| `Jira` | `Jenkins`
 - `Ubuntu` | `Windows`
-- `Valgrind` |`GDB` | `Gprof`
+- `Valgrind` |`GDB` | `Gprof`| `Makefile` | `CMake`
 
 ### :factory: :man_scientist:  Industry Experience
 | | | | | |
