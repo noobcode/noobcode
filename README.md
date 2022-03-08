@@ -6,14 +6,8 @@
 <h3> About Me </h3>
 
 * Currently in Pisa, Tuscany, Italy
-* PhD Candidate in BioRobotics (Modelling and Control of Soft Robots)
+* PhD Candidate in BioRobotics at the <a href="https://www.santannapisa.it/en/carlo-alessi">Scuola Superiore Sant'Anna</a> (Modelling and Control of Soft Robots)
 * Background in Computer Science and Artificial Intelligence
-
-<h3>How to reach me</h3>
-<p>
-<a href="https://www.linkedin.com/in/carlo-alessi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/carloalessi94" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
 
 <h3> :hammer_and_pick: :wrench: Technical skills </h3>
 
