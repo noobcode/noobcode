@@ -4,7 +4,11 @@
   </a>
 </p>
 
-<p align="right"> "Memento Audere Semper" - G.D. </p>
+<h3>How to reach me</h3>
+<p>
+<a href="https://www.linkedin.com/in/carlo-alessi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 
 ### :hammer_and_pick: :wrench: Technical Skills
 - `C` | `C++` | `Python` | `Java` | `Matlab` | `SQL` | `Bash scripting` | `OCaml`
@@ -16,24 +20,5 @@
 - `Ubuntu` | `Windows`
 - `Valgrind` |`GDB` | `Gprof`| `Makefile` | `CMake`
 
-### :factory: :man_scientist:  Industry Experience
-| | | | | |
-|-|-|-|-|-|
-| :satellite: | Student Software Engineer | Nokia Networks | (Bristol, United Kingdom) | :uk: |
 
-### :mortar_board: Education 
-| |                                                   |                            |               |   |
-|-|---------------------------------------------------|----------------------------|---------------|---|
-| :robot: | PhD Student in BioRobotics                        | Scuola Superiore Sant'Anna | (Pisa, Italy) | :it:  |
-| :brain: | MSc in Computer Science (Artificial Intelligence) | University of Pisa         | (Pisa, Italy) | :it:  |
-| :computer: | BSc in Computer Science                           | University of Pisa         | (Pisa, Italy) | :it:  |
-
-##### Visiting
-| |                                                   |                            |               |   |
-|-|---------------------------------------------------|----------------------------|---------------|---|
-| :robot: | :eu: Erasmus+ Traineeship  | Techinical University of Munich | (Munich, Germany) | :de:  |
-| :brain: | :eu: Erasmus+ Study | University of Barcelona & Polytechnic University of Catalonia  | (Barcelona, Spain) | :es:  |
-| :computer: | :eu: Erasmus+ Study      | University of Bristol        | (Bristol, United Kingdom) | :uk:  |
-
-
-:infinity: Recently I began restructuring my old repositories...
+NB: old repositories maight be messy...
