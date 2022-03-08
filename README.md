@@ -1,4 +1,5 @@
-<h3> Carlo Alessi </h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Carlo Alessi </strong>
+</h1>
 
 <h3> About Me </h3>
 
