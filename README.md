@@ -13,6 +13,7 @@
 </p>
 
 <h3> :hammer_and_pick: :wrench: Technical skills </h3>
+
 - `C` | `C++` | `Python` | `Java` | `Matlab` | `SQL` | `Bash scripting` | `OCaml`
 - `OpenMP` | `MPI` | `OpenCL` | `POSIX pthread` | `Boost` 
 - `Keras` | `PyTorch` | `Scikit-learn` | `NLTK` | `Caffe` | `Tensor-flow` | `OpenCV`
