@@ -3,7 +3,6 @@
 <a href="https://twitter.com/carloalessi94" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </h1>
 
-* Currently in Pisa, Tuscany, Italy
 * PhD Candidate in BioRobotics at the <a href="https://www.santannapisa.it/en/carlo-alessi">Scuola Superiore Sant'Anna</a> (Modelling and Control of Soft Robots)
 * Background in Computer Science and Artificial Intelligence
 
@@ -17,6 +16,3 @@
 - `Unit Testing` | `Version Control` |`Agile Software Development`| `Jira` | `Jenkins`
 - `Ubuntu` | `Windows`
 - `Valgrind` |`GDB` | `Gprof`| `Makefile` | `CMake`
-
-
-Nota Bene: old repositories might be messy...
